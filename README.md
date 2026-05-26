@@ -40,7 +40,7 @@ To maintain codebase integrity and ensure smooth collaboration, all contributors
 | :--- | :--- |
 | **Project Tracker** | [View Jira/Trello Board](https://your-tracker-link-here.com) |
 | **Figma Board** | [View Design Prototype](https://your-figma-link-here.com) |
-| **Component Documentation** | [View Docs](https://your-docs-link-here.com) *(Suggested addition)* |
+| **Component Documentation** | [View Docs](https://your-docs-link-here.com) |
 
 ---
 
